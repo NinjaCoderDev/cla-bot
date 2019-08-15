@@ -1,4 +1,4 @@
-# Adobe CLA Bot [![Build Status](https://travis-ci.com/adobe/cla-bot.svg?branch=master)](https://travis-ci.com/adobe/cla-bot)
+# Adobe CLA Bot [![Build Status](https://travis-ci.com/adobe/cla-bot.svg?branch=master)](https://travis-ci.com/adobe/cla-bot) [![Greenkeeper badge](https://badges.greenkeeper.io/adobe/cla-bot.svg)](https://greenkeeper.io/)
 
 This is a GitHub App that checks that pull request issuers to [github.com/adobe]
 have signed the [Adobe CLA][cla].
